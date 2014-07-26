@@ -1,2 +1,3 @@
+Firefox.munki
 iTerm2.munki
 MakeCatalogs.munki
