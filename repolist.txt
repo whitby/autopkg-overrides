@@ -1,0 +1,6 @@
+https://github.com/autopkg/groob-recipes
+https://github.com/autopkg/hjuutilainen-recipes.git
+https://github.com/autopkg/jaharmi-recipes
+https://github.com/autopkg/keeleysam-recipes
+http://github.com/autopkg/recipes.git
+https://github.com/autopkg/timsutton-recipes
