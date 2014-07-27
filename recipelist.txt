@@ -1,3 +1,4 @@
+Foldit.munki
 AdobeAir.munki
 Firefox.munki
 iTerm2.munki
