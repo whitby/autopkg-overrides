@@ -1,3 +1,4 @@
+Blender.munki
 Foldit.munki
 AdobeAir.munki
 Firefox.munki
