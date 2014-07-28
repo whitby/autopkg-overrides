@@ -1,3 +1,4 @@
+AdobeFlashPlayer.munki
 Blender.munki
 Foldit.munki
 AdobeAir.munki
