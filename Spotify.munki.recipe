@@ -7,7 +7,7 @@
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
-		<string>apps</string>
+		<string>apps/spotify</string>
 		<key>NAME</key>
 		<string>Spotify</string>
 		<key>pkginfo</key>
