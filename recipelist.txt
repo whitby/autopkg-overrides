@@ -1,3 +1,4 @@
+CitrixReceiver.munki
 Caffeine.munki
 BoxEdit.munki
 AutoDMG.munki
