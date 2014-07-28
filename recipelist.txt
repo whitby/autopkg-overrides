@@ -1,3 +1,7 @@
+Handbrake.munki
+VLC.munki
+MPlayerX.munki
+Spotify.munki
 Github.munki
 Flux.munki
 Facter.munki
