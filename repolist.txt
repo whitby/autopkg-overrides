@@ -4,3 +4,4 @@ https://github.com/autopkg/jaharmi-recipes
 https://github.com/autopkg/keeleysam-recipes
 https://github.com/autopkg/recipes.git
 https://github.com/autopkg/timsutton-recipes
+https://github.com/autopkg/jleggat-recipes
