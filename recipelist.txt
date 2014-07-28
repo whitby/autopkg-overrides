@@ -1,3 +1,4 @@
+Caffeine.munki
 BoxEdit.munki
 AutoDMG.munki
 AdobeFlashPlayer.munki
