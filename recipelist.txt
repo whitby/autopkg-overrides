@@ -1,5 +1,7 @@
+ComicLife2.munki
 AdobeAir.munki
 AdobeFlashPlayer.munki
+AdobeShockwavePlayer.munki
 AutoDMG.munki
 Blender.munki
 BoxEdit.munki
