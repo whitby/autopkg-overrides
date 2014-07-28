@@ -1,3 +1,11 @@
+Github.munki
+Flux.munki
+Facter.munki
+Hiera.munki
+Puppet.munki
+Evernote.munki
+Dropbox.munki
+Colloquy.munki
 CitrixReceiver.munki
 Caffeine.munki
 BoxEdit.munki
