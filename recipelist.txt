@@ -22,6 +22,13 @@ GoogleEarth.munki
 GoogleTalkPlugin.munki
 Handbrake.munki
 Hiera.munki
+MAS-GarageBand.munki
+MAS-Keynote.munki
+MAS-Mail_Designer.munki
+MAS-Mail_Designer2.munki
+MAS-Microsoft_Remote_Desktop.munki
+MAS-Numbers.munki
+MAS-Pages.munki
 MPlayerX.munki
 MSOffice2011Updates.munki
 MakerBot.munki
