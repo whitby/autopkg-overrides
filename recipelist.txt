@@ -24,8 +24,9 @@ Handbrake.munki
 Hiera.munki
 MAS-GarageBand.munki
 MAS-Keynote.munki
-MAS-Mail_Designer.munki
-MAS-Mail_Designer2.munki
+# MAS Mail Designer packages brocken
+#MAS-Mail_Designer.munki
+#MAS-Mail_Designer2.munki
 MAS-Microsoft_Remote_Desktop.munki
 MAS-Numbers.munki
 MAS-Pages.munki
@@ -43,3 +44,4 @@ Vagrant.munki
 exacqVisionClient.munki
 iTerm2.munki
 munkitools2.munki
+MakeCatalogs.munki
